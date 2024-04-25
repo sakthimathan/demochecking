@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-25T14:34:50 IST" name="Default suite" finished-at="2024-04-25T14:34:54 IST" duration-ms="4023">
+    <groups>
+    </groups>
+    <test started-at="2024-04-25T14:34:50 IST" name="Default test" finished-at="2024-04-25T14:34:54 IST" duration-ms="4023">
+      <class name="job.Interview">
+        <test-method signature="fromtest()[pri:0, instance:job.Interview@70e9c95d]" started-at="2024-04-25T14:34:50 IST" name="fromtest" finished-at="2024-04-25T14:34:54 IST" duration-ms="3945" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fromtest -->
+      </class> <!-- job.Interview -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
